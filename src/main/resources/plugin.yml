@@ -1,0 +1,16 @@
+name: ScoreboardPlugin
+version: 1.0
+main: me.yvant.ScoreboardPlugin
+api-version: 1.20
+author: yvant_dev
+description: Custom per-world scoreboard plugin by TrollerYvant
+website: https://t.me/yvant_dev
+commands:
+  scoreboard:
+    description: Toggle or reload scoreboard
+    usage: /scoreboard [stats on|off|reload]
+    permission: scoreboard.admin
+permissions:
+  scoreboard.admin:
+    description: Allows toggling and reloading the scoreboard
+    default: op

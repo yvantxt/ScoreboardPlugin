@@ -1,0 +1,38 @@
+# ScoreBoard Plugin Config by yvant_dev
+
+scoreboard:
+  enabled: true
+
+  # Per-world scoreboard settings
+  worlds:
+    world:
+      enabled: true
+      title: "&a&lMain World"
+      lines:
+        - "&7&m---------------------"
+        - "&eName: &f%player_name%"
+        - "&eBalance: &a%vault_eco_balance%"
+        - "&eOnline: &f%server_online%"
+        - "&7&m---------------------"
+        - "&ediscord: &ft.me/trolleryvant"
+        - "&etelegram: &f@yvant_dev"
+
+    world_nether:
+      enabled: false
+      title: "&c&lNether"
+      lines:
+        - "&c the Nether"
+        - "&eName: &f%player_name%"
+        - "&eOnline: &f%server_online%"
+
+    world_the_end:
+      enabled: false
+      title: "&5&lThe End"
+      lines:
+        - "&5You're in The End"
+        - "&eName: &f%player_name%"
+        - "&eOnline: &f%server_online%"
+
+# If you face any issues, contact me:
+# Discord: trolleryvant
+# Telegram: @yvant_dev
