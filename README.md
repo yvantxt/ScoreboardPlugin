@@ -17,7 +17,9 @@ You can fully configure the scoreboard title and lines for each world from the c
 
 - /scoreboard reload — reload the configuration (admin only)
 #
+
 For support:
+
 Discord: trolleryvant
 Telegram: @yvant_dev
 
