@@ -1,0 +1,2 @@
+# ScoreboardPlugin
+ScoreboardPlugin MineCraft 
