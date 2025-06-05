@@ -17,7 +17,8 @@ You can fully configure the scoreboard title and lines for each world from the c
 
 - /scoreboard reload — reload the configuration (admin only)
 #
-**You need to modify from config.**
+*You need to modify from config.*
+
 ![image](https://github.com/user-attachments/assets/8bef1dc9-9153-4afe-ac9b-c9e67a402b78)
 
 For support:
